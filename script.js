@@ -1,4 +1,4 @@
-/* --- about tabs --- */
+/* ---  about me - tabs (education/experience) --- */
 const tabsContainer = document.querySelector(".about-tabs"),
 aboutSection = document.querySelector(".about-section");
 
